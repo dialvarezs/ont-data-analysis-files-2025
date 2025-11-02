@@ -1,0 +1,6 @@
+outs:
+- md5: d692138f8be08d32568ace5e2a81c614.dir
+  size: 3570621
+  nfiles: 7
+  hash: md5
+  path: format_examples
