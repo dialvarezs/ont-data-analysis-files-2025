@@ -1,0 +1,6 @@
+outs:
+- md5: decbd2e8bcd8565c78e926b6ec945ef1.dir
+  size: 341238315
+  nfiles: 2
+  hash: md5
+  path: pod5
