@@ -1,0 +1,6 @@
+outs:
+- md5: 4e703eb17254992706a0f3975c0712c3.dir
+  size: 688404814
+  nfiles: 3
+  hash: md5
+  path: variant_2

@@ -1,0 +1,6 @@
+outs:
+- md5: e962f6140c2fe8609083cd93b01fc474.dir
+  size: 621964097
+  nfiles: 3
+  hash: md5
+  path: variant_1
