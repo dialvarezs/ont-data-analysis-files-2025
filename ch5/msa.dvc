@@ -1,0 +1,6 @@
+outs:
+- md5: 5912671134a574c2f910c06e77c5a224.dir
+  size: 3196988
+  nfiles: 2
+  hash: md5
+  path: msa
