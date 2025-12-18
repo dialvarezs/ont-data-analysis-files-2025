@@ -1,0 +1,5 @@
+outs:
+- md5: 5292ec5acb14e1051e6cdc1919cb5228
+  size: 1786147201
+  hash: md5
+  path: BG.fastq.gz
